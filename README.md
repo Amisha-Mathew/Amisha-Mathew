@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Amisha-Mathew
-- 👀 I’m interested in exploring new concepts and taking up challenges in different domains like web and app developement, blockchain,
-- cloud and AI/ML.
+- 👀 I’m interested in exploring new concepts and taking up challenges in different domains like web and app developement, blockchain, cloud and AI/ML.
 - 🌱 I’m currently learning these concepts.
 - 💞️ I’m looking to collaborate on projects related to the same.
 - 📫 How to reach me : amishamathew1@gmail.com
